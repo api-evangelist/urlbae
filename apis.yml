@@ -1,0 +1,32 @@
+aid: urlbae
+name: UrlBae
+description: "Simple and efficient short link creation"
+url: https://urlbae.com/developers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: UrlBae
+    description: "Simple and efficient short link creation"
+    humanURL: https://urlbae.com/developers
+    baseURL: https://urlbae.com/developers
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://urlbae.com/developers
+common:
+  - type: Website
+    url: https://urlbae.com/developers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
