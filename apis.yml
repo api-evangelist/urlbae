@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://urlbae.com/developers
 common:
+  - type: DomainSecurity
+    url: security/urlbae-domain-security.yml
   - type: Website
     url: https://urlbae.com/developers
   - type: PublicAPIsListing
