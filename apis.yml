@@ -39,7 +39,6 @@ apis:
   - name: UrlBae
     description: "Simple and efficient short link creation"
     humanURL: https://urlbae.com/developers
-    baseURL: https://urlbae.com/developers
     tags:
       - URL Shorteners
     properties:
